@@ -4,8 +4,8 @@ about: "Bootstrap theme for jekyll"
 markdown: kramdown
 url: "https://www.der-hofi.de"
 baseurl: ""
-disqus_short_name: disqus-demo-page
-
+disqus_short_name: 
+  
 plugins: 
   - jekyll-paginate
   - jemoji

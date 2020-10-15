@@ -1,8 +1,8 @@
 ---
-title: Jekyll post
+title: Der erste Post
 layout: post
-date: 2018-10-09
-description: A complete post.
+date: 2020-10-15
+description: Der erste vollständige Post auf dieser Seite.
 image: 3.jpg
 categories: ["c"]
 ---
