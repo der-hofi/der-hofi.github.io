@@ -1,9 +1,9 @@
-title: "Milo"
+title: "der-hofi.de"
 
 about: "Bootstrap theme for jekyll"
 markdown: kramdown
-url: ""
-baseurl: "/jekyll-theme-milo"
+url: "https://www.der-hofi.de"
+baseurl: ""
 disqus_short_name: disqus-demo-page
 
 plugins: 
